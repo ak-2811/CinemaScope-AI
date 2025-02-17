@@ -1,6 +1,4 @@
 # CinemaScope-AI
-A semantic movie search engine using Elasticsearch and Streamlit. Explore top 1000 global films by actors, genres, directors, or titles. Get instant, context-aware recommendations. Showcases vector database and AI-driven search capabilities. Discover cinema through intelligent queries.
-
 Pre-requisite: All the necessary installations should be done to run this assignment.
 
 First run the First_1002156388.ipynb file to get start with the elasticsearch and dataset.
